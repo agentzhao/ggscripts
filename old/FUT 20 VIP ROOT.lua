@@ -1,0 +1,20 @@
+
+gg.toast("CRACKED BY GAMER TURAN_25")
+local fileDataz = gg.makeRequest('https://ronoplays.com/Apps/pacy%20backup/Titanium/SOO/com.pacybits.pacybitsfut20-20191019-191251.tar.gz').content
+gg.toast("CRACKED BY GAMER TURAN_25")
+file = io.open("/storage/emulated/0/TitaniumBackup/com.pacybits.pacybitsfut20-20191010-194638.tar.gz", 'w')
+gg.toast("CRACKED BY GAMER TURAN_25")
+file:write(fileDataz)
+gg.toast("CRACKED BY GAMER TURAN_25")
+file:close()
+gg.toast("CRACKED BY GAMER TURAN_25")
+local fileDatax = gg.makeRequest('https://ronoplays.com/Apps/pacy%20backup/Titanium/SOO/com.pacybits.pacybitsfut20-20191019-191251.properties').content
+gg.toast("CRACKED BY GAMER TURAN_25")
+file = io.open("/storage/emulated/0/TitaniumBackup/com.pacybits.pacybitsfut20-20191013-111643.properties", 'w')
+gg.toast("CRACKED BY GAMER TURAN_25")
+file:write(fileDatax)
+gg.toast("CRACKED BY GAMER TURAN_25")
+file:close()
+gg.toast("CRACKED BY GAMER TURAN_25")
+gg.alert("Success, Remember Don't Buy Anything From Leaches - Gamer Turan_25\n open titanium backup goto pacybits and restore")
+os.exit()

@@ -1,0 +1,9 @@
+313
+Var #7F8F8B5848|7f8f8b5848|4|5|0|0|0|64|rw-p|/data/app/jp.co.ponos.battlecatsen-2/lib/arm64/libnative-lib.so:bss|1f1848
+Var #7F8F8CD424|7f8f8cd424|4|b|0|0|0|64|rw-p|/data/app/jp.co.ponos.battlecatsen-2/lib/arm64/libnative-lib.so:bss|209424
+Var #7F8F8CD428|7f8f8cd428|4|b|0|0|0|64|rw-p|/data/app/jp.co.ponos.battlecatsen-2/lib/arm64/libnative-lib.so:bss|209428
+Var #7F8F8CD42C|7f8f8cd42c|4|b|0|0|0|64|rw-p|/data/app/jp.co.ponos.battlecatsen-2/lib/arm64/libnative-lib.so:bss|20942c
+Var #7F8F8CD430|7f8f8cd430|4|b|0|0|0|64|rw-p|/data/app/jp.co.ponos.battlecatsen-2/lib/arm64/libnative-lib.so:bss|209430
+Var #7F8F8CD434|7f8f8cd434|4|b|0|0|0|64|rw-p|/data/app/jp.co.ponos.battlecatsen-2/lib/arm64/libnative-lib.so:bss|209434
+Var #7F8F8CD438|7f8f8cd438|4|b|0|0|0|64|rw-p|/data/app/jp.co.ponos.battlecatsen-2/lib/arm64/libnative-lib.so:bss|209438
+Var #7F8F8CD43C|7f8f8cd43c|4|b|0|0|0|64|rw-p|/data/app/jp.co.ponos.battlecatsen-2/lib/arm64/libnative-lib.so:bss|20943c
